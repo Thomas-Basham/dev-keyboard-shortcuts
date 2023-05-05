@@ -24,9 +24,10 @@
 | Copy                              | `Ctrl + C`                        | `Command + C`               |
 | Cut                               | `Ctrl + X`                        | `Command + X`               |
 | Paste                             | `Ctrl + V`                        | `Command + V`               |
-| Select text easier                | Click beginning/end of selection  |                              |
-|                                   | `Shift + click`                   | `Shift + Option + ← or →`   |
-|                                   | Without mouse:                    |                              |
+| Select text easier                | Click beginning/end of selection,
+|                                   | then:                           
+|                                   | `Shift + click` End of selection  | `Shift + Option + ← or →`   |
+|                                   | Without mouse:                    |                             |
 |                                   | `Shift + Ctrl + ← or →`           | `Shift + Option + ← or →`   |
 | Move with arrow keys faster       | `Ctrl + ← or →`                   | `Option + ← or →`           |
 | Find in file                      | `Ctrl + F`                        | `Command + F`               |
