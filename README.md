@@ -1,4 +1,4 @@
-# dev-keyboard-shortcuts
+# Developer Keyboard Shortcuts
 
 ## VS Code
 | Action                            | Windows/Linux Shortcut | macOS Shortcut       |
