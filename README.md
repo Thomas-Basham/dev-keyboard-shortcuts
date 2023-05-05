@@ -1,5 +1,6 @@
 # dev-keyboard-shortcuts
 
+## VS Code
 | Action                            | Windows/Linux Shortcut | macOS Shortcut       |
 | --------------------------------- | -----------------------| ---------------------|
 | Move lines and blocks             | `Alt + ↓` or `↑`       | `Option + ↓` or `↑`  |
@@ -13,6 +14,8 @@
 | Open the command palette          | `Ctrl + Shift + P`      | `Command + Shift + P`|
 | Edit multiple lines at once       | `Alt + click lines`     | `Option + click lines`|
 
+
+## General Computing
 | Action                            | Windows/Linux Shortcut           | macOS Shortcut               |
 | --------------------------------- | --------------------------------- | ----------------------------|
 | Undo                              | `Ctrl + Z`                        | `Command + Z`               |
