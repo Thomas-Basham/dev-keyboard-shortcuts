@@ -13,6 +13,8 @@
 | Open settings                     | `Ctrl + ,`              | `Command + ,`        |
 | Open the command palette          | `Ctrl + Shift + P`      | `Command + Shift + P`|
 | Edit multiple lines at once       | `Alt + click lines`     | `Option + click lines`|
+| Find in file                      | `Ctrl + F`                        | `Command + F`               |
+| Find globally                     | `Ctrl + Shift + F`                | `Command + Shift + F`       |
 
 
 ## General Computing
@@ -30,5 +32,4 @@
 |                                   | Without mouse:                    |                             |
 |                                   | `Shift + Ctrl + ← or →`           | `Shift + Option + ← or →`   |
 | Move with arrow keys faster       | `Ctrl + ← or →`                   | `Option + ← or →`           |
-| Find in file                      | `Ctrl + F`                        | `Command + F`               |
-| Find globally                     | `Ctrl + Shift + F`                | `Command + Shift + F`       |
+
