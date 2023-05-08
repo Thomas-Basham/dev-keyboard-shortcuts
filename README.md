@@ -28,7 +28,7 @@
 | Paste                             | `Ctrl + V`                        | `Command + V`               |
 | Select text easier                | Click beginning/end of selection,
 |                                   | then:                           
-|                                   | `Shift + click` End of selection  | `Shift + Option + ← or →`   |
+|                                   | `Shift + click` End of selection  |`Shift + click` End of selection|
 |                                   | Without mouse:                    |                             |
 |                                   | `Shift + Ctrl + ← or →`           | `Shift + Option + ← or →`   |
 | Move with arrow keys faster       | `Ctrl + ← or →`                   | `Option + ← or →`           |
