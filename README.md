@@ -6,7 +6,7 @@
 | Move lines and blocks             | `Alt + ↓` or `↑`       | `Option + ↓` or `↑`  |
 | Duplicate lines and blocks        | `Shift + Alt + ↓` or `↑`| `Shift + Option + ↓` or `↑` |
 | Toggle comments                   | `Ctrl + /`              | `Command + /`        |
-| Format File                       | `Ctrl + Shift + F`      | `Option + Shift + F` |
+| Format File                       | `alt + Shift + F`      | `Option + Shift + F` |
 | Preview html/markdown file        | `Ctrl + Shift + V`      | `Command + Shift + V`|
 | Toggle Sidebar                    | `Ctrl + B`              | `Command + B`        |
 | Open the terminal                 | `Ctrl + J`              | `Command + J`        |
