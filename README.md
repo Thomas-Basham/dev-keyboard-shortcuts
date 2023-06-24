@@ -1,6 +1,7 @@
 # Developer Keyboard Shortcuts
 
 ## VS Code
+
 | Action                      | Windows/Linux Shortcut   | macOS Shortcut              |
 | --------------------------- | ------------------------ | --------------------------- |
 | Move lines and blocks       | `Alt + ↓` or `↑`         | `Option + ↓` or `↑`         |
